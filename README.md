@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DGurskij
-- 👀 I’m interested in TypeScript/WebGL/OpenGL/C++/Java
+- 👀 I’m interested in TypeScript/WebGL/OpenGL/C/C++/Java
 - 📫 How to reach me denis.gurskij2012@yandex.by / denis.gurskij2012@gmail.com
 
 - My own project https://spacegame.by (now only RUS, sorry)
